@@ -5,8 +5,8 @@
 GreenLane biến xe giao hàng và xe công nghệ thành mạng cảm biến di động đo bụi mịn theo từng con đường, rồi đưa dữ liệu đó vào một ứng dụng giúp người dân chọn tuyến sạch và mát hơn, chỉ chậm thêm vài phút.
 
 - **Tên:** GreenLane (Làn Xanh). Dòng phụ: *Urban Air Quality & Clean Routes*
-- **Tagline:** *Every ride, data insight* (bản cover hiện ghi "date", có vẻ là lỗi chính tả)
-- **Cuộc thi:** UII Sandbox 2026, UEH. Giai đoạn trực tuyến 04/09–05/10/2026; giai đoạn trực tiếp 13/10/2026–08/01/2027 (dành cho Top 40)
+- **Tagline:** *Every ride, data insight*
+- **Cuộc thi:** UII Sandbox 2026, UEH. 
 
 ## 2. Vấn đề
 
