@@ -100,15 +100,7 @@ Chưa ưu tiên ở giai đoạn này: tài xế/shipper (là bên cung cấp d�
 - **Còn thiếu cho Final Pitch Deck:** Research & MVP Development Plan, Team structure, Call to Action (tùy chọn). Final Pitch Deck yêu cầu ~15–20 slide; bản hiện tại đã gần chạm trần.
 - Demo File (ảnh hoặc video minh họa MVP) nộp riêng.
 
-## 12. Việc cần sửa trong deck hiện tại
-
-- Tagline "date insight" nên là "data insight".
-- Slide ứng dụng ghi "chị Lan", nhưng persona là "Chị Tuyến".
-- Slide MVP còn "[điền giá] đồng/thiết bị" và "PM57003" (đúng là PMS7003).
-- Slide Cơ hội thị trường: "20,8 µg/m²" (đúng là µg/m³; nguồn IQAir ghi 20,9), "ADI" (đúng là AQI), "2.400 triệt bị nằm 1" và một số chữ bị lỗi.
-- Số liệu "70.000+ ca tử vong" và Hà Nội 45,9 µg/m³ chưa có link nguồn.
-
-## 13. Nguồn dữ liệu chính
+## 12. Nguồn dữ liệu chính
 
 - Dân số: [NSO, điều tra giữa kỳ 2024](https://www.nso.gov.vn/wp-content/uploads/2025/01/Thong-cao-bao-chi-Ket-qua-chu-yeu-DSGK2024.pdf)
 - Internet 84,2%: [DataReportal 2026](https://datareportal.com/reports/digital-2026-vietnam)
