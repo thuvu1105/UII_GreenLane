@@ -94,13 +94,7 @@ Chưa ưu tiên ở giai đoạn này: tài xế/shipper (là bên cung cấp d�
 4. **Mức sẵn sàng trả phí thấp**, doanh thu thuê bao B2C nhỏ nên cần kiểm chứng nguồn thu khác.
 5. **Lợi thế dễ thu hẹp** nếu thị trường được chứng minh (phần cứng rẻ, app dễ sao chép).
 
-## 11. Trạng thái hiện tại
-
-- Đã có: slide từ cover đến Value Proposition Canvas (19 slide), file Excel market sizing, persona, empathy map.
-- **Còn thiếu cho Final Pitch Deck:** Research & MVP Development Plan, Team structure, Call to Action (tùy chọn). Final Pitch Deck yêu cầu ~15–20 slide; bản hiện tại đã gần chạm trần.
-- Demo File (ảnh hoặc video minh họa MVP) nộp riêng.
-
-## 12. Nguồn dữ liệu chính
+## 11. Nguồn dữ liệu chính
 
 - Dân số: [NSO, điều tra giữa kỳ 2024](https://www.nso.gov.vn/wp-content/uploads/2025/01/Thong-cao-bao-chi-Ket-qua-chu-yeu-DSGK2024.pdf)
 - Internet 84,2%: [DataReportal 2026](https://datareportal.com/reports/digital-2026-vietnam)
