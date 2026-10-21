@@ -31,7 +31,7 @@ GreenLane biến xe giao hàng và xe công nghệ thành mạng cảm biến di
 
 **USP:** ứng dụng dẫn đường đầu tiên tại Việt Nam dùng dữ liệu bụi mịn đo thật cấp đường phố từ cảm biến gắn trên xe giao hàng.
 
-## 4. Mô hình kinh doanh (đã thay đổi so với Milestone 1)
+## 4. Mô hình kinh doanh
 
 - **Liên kết, không bán** thiết bị cho Grab, Xanh SM, Be: hãng phát thiết bị cho tài xế của mình, GreenLane cấp thiết bị và hỗ trợ lắp.
 - Hãng nhận dashboard dữ liệu cho báo cáo ESG và cảnh báo AQI cho tài xế. Tài xế nhận cảnh báo và điểm xanh.
@@ -51,7 +51,7 @@ Phân khúc chính: **người quan tâm sức khỏe tại TP.HCM và Hà Nội
 
 Chưa ưu tiên ở giai đoạn này: tài xế/shipper (là bên cung cấp dữ liệu), doanh nghiệp và cơ quan quản lý.
 
-## 6. Quy mô thị trường (file `GreenLane_Market_Sizing.xlsx`)
+## 6. Quy mô thị trường
 
 | | TAM | SAM | SOM (12 tháng đầu) |
 |---|---|---|---|
